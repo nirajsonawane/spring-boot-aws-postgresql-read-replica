@@ -1,1 +1,1 @@
-# -spring-boot-aws-postgresql-read-replica
+# spring-boot-aws-postgresql-read-replica
